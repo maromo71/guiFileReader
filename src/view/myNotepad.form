@@ -39,7 +39,7 @@
                   <verticalTextPosition value="3"/>
                 </properties>
               </component>
-              <component id="5dd24" class="javax.swing.JMenuItem" binding="MySavel">
+              <component id="5dd24" class="javax.swing.JMenuItem" binding="MySave">
                 <constraints/>
                 <properties>
                   <text resource-bundle="resources/myProperties" key="salvar"/>
